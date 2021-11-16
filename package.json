@@ -34,7 +34,7 @@
   "homepage": "https://github.com/JamesCollerton/React_Drag_and_Drop#readme",
   "dependencies": {
     "@babel/runtime": "^7.6.2",
-    "aws-sdk": "^2.591.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.19.2",
     "bootstrap": "^4.3.1",
     "config": "^3.3.1",
