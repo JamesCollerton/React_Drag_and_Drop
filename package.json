@@ -38,7 +38,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.3.1",
     "config": "^3.3.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.0",
